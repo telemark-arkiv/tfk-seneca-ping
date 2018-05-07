@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "seneca": "3.4.3",
-    "seneca-balance-client": "0.4.0",
+    "seneca-balance-client": "0.6.1",
     "seneca-mesh": "0.7.0"
   }
 }
